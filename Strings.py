@@ -114,5 +114,9 @@ print(text)
 text = "The price of {0} is {1:.2f}.".format("a book", 12.49, 12.49 )
 print(text)
 
+first_name = "joe"
+second_name= "doe"
 
+full_name = first_name + second_name 
+print(full_name)
 
